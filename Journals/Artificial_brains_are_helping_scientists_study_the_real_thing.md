@@ -1,4 +1,4 @@
-# [Artificial brains are helping scientists study the real thing]([Artificial brains are helping scientists study the real thing (economist.com)](https://www.economist.com/science-and-technology/2023/05/24/artificial-brains-are-helping-scientists-study-the-real-thing))
+# [Artificial brains are helping scientists study the real thing](https://www.economist.com/science-and-technology/2023/05/24/artificial-brains-are-helping-scientists-study-the-real-thing)
 
 The striking progress in artificial intelligence over the past decade is mostly down to advances in machine learning, whereby computers teach themselves complicated tasks by crunching large quantities of data, rather than having to be programmed directly by humans. This approach has driven rapid progress in computer vision, language translation and, most recently, the human-like conversational skills of chatbots such as gpt-4.
 
