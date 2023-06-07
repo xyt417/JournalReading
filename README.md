@@ -6,4 +6,4 @@
 
 [Apple’s Vision Pro is a technical marvel. Will anyone buy it?](Journals/Apples_Vision_Pro_is_a_technical_marvel.md)
 
-[Generative AI could radically alter the practice of law](Journals/Generative_AI_could_alter_the_practice_of_law.md)
+[Generative AI could radically alter the practice of law](Journals/Generative_AI_ could_alter_the_practice_of_law.md)
